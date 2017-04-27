@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: ":<3: Žilinka :<3:",
+      botName: "<3 Žilinka <3",
       language: "english",
       chatLink: "https://rawgit.com/MenT97/custom/master/lang/en.json",
       scriptLink: "https://rawgit.com/MenT97/source/master/basicBot.js",
