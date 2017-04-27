@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: ":<3: Žilinka :<3:",
       language: "english",
-      chatLink: "https://rawgit.com/MenT97/source/master/lang/en.json",
+      chatLink: "https://rawgit.com/MenT97/custom/master/lang/en.json",
       scriptLink: "https://rawgit.com/MenT97/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
