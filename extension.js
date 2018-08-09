@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "MenT97";
+    var fork = "Nejlepší Bot <3";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "<3 Žilinka <3",
+      botName: "<3 NEJBOT <3",
       language: "english",
       chatLink: "https://rawgit.com/MenT97/custom/master/lang/en.json",
       scriptLink: "https://rawgit.com/MenT97/source/master/basicBot.js",
@@ -54,7 +54,7 @@
       startupCap: 1, // 1-200
       startupVolume: 0, // 0-100
       startupEmoji: false, // true or false
-      autowoot: false,
+      autowoot: true,
       autoskip: false,
       smartSkip: true,
       cmdDeletion: true,
@@ -84,7 +84,7 @@
       ["mix", "You played a mix, which is against the rules. "],
       ["sound", "The song you played had bad sound quality or no sound. "],
       ["nsfw", "The song you contained was NSFW (image or sound). "],
-      ["unavailable", "The song you played was not available for some users. "]
+      ["unavailable", "Tenhle song nesmí používat někteří uživatelé "]
       ],
       afkpositionCheck: 15,
       afkRankCheck: "ambassador",
